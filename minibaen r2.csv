@@ -27,3 +27,5 @@ Ref,Qnty,Value,Cmp name,Footprint,Description,Vendor
 "USB1, ",1,HRO-TYPE-C-31-M-12,HRO-TYPE-C-31-M-12,Type-C:HRO-TYPE-C-31-M-12,,C165948 
 ,,,,,,
 "Y1, ",1,Crystal_GND24_Small,Crystal_GND24_Small,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm,"Four pin crystal, GND on pins 2 and 4, small symbol",C13738 
+,,,,,,
+U1,1,ATmega32U2-A,,TQFP-32_7x7mm_P0.8mm,,C618733 
